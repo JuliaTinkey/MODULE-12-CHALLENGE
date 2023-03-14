@@ -1,5 +1,6 @@
 # MODULE-12-CHALLENGE
 nosql-challenge
+Resources- establishments.json (was too large to upload)
 
 Part 1: Database and Jupyter Notebook Set Up
 Use NoSQL_setup_starter.ipynb for this section of the challenge.
